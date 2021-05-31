@@ -22,7 +22,8 @@ import matplotlib.pyplot as plt
 #	G E T | D A T A
 # -----------------------------------------------------------------------------------
 url = 'https://covid19.th-stat.com/api/open/timeline'	# Shared API for Thailand COVID-19 update
-start_date = '03_01_2020'
+##start_date = '03_01_2020'
+start_date = '01_01_2021'	# Change start date to 2nd wave
 data_list = {}
 
 raw_data = requests.get(url)
