@@ -9,10 +9,12 @@ Query status of Thailand COVID-19 case from public API
   6) Recovered
   7) Hospitalized
   8) Deaths
+
  Save data in csv format (defaul at Desktop)
  Plot graph time vs. COVID-19 case
  
 Thailand | W I N | o==( -" - o==)
+
 Enjoy!!!!!
  
- Last update : Change start date to 01 Jan 21 (The 2nd wave start)
+Last update : Change start date to 01 Jan 21 (The 2nd wave start)
