@@ -28,7 +28,7 @@ data_list = {}
 
 raw_data = requests.get(url)
 data = raw_data.text[167:].split(',')
-##print(data)
+print(data)
 ##print('Type of Data : ', type(data))
 ##print('Length of Data : ', len(data))
 
