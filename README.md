@@ -1,5 +1,6 @@
 # Get-Thailand-COVID-19
 Query status of Thailand COVID-19 case from public API
+
 8 data type Queried
   1) NewConfirmed
   2) NewRecovered
@@ -10,8 +11,9 @@ Query status of Thailand COVID-19 case from public API
   7) Hospitalized
   8) Deaths
 
- Save data in csv format (defaul at Desktop)
- Plot graph time vs. COVID-19 case
+Save data in csv format (defaul at Desktop)
+ 
+Plot graph time vs. COVID-19 case
  
 Thailand | W I N | o==( -" - o==)
 
